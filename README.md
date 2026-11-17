@@ -3,7 +3,7 @@
 Aplicación Shiny del Trabajo Fin de Grado de Mario Martín Rodríguez (Universidad de Granada),
 con los juegos y algoritmos del trabajo explicados paso a paso.
 
-**Versión en línea:** (añadir aquí la dirección de la aplicación publicada)
+**Versión en línea:** https://mario10ugr.shinyapps.io/tfg_shiny/
 
 ## Cómo lanzarla en tu ordenador
 
